@@ -1,0 +1,6 @@
+# Block archive.org
+User-agent: ia_archiver
+Disallow: /
+
+# Location of sitemap
+Sitemap: https://valleyaesthetics.com/sitemap_index.xml
