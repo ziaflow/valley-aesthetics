@@ -1,0 +1,144 @@
+[06-Jun-2025 00:58:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/o6su1nvmgrk4/public_html/wp-config.php:25
+Stack trace:
+#0 /home/o6su1nvmgrk4/public_html/wp-config.php(25): define()
+#1 /home/o6su1nvmgrk4/public_html/wp-load.php(50): require_once('/home/o6su1nvmg...')
+#2 /home/o6su1nvmgrk4/public_html/wp-blog-header.php(13): require_once('/home/o6su1nvmg...')
+#3 /home/o6su1nvmgrk4/public_html/index.php(17): require('/home/o6su1nvmg...')
+#4 {main}
+  thrown in /home/o6su1nvmgrk4/public_html/wp-config.php on line 25
+[06-Jun-2025 00:58:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/o6su1nvmgrk4/public_html/wp-config.php:25
+Stack trace:
+#0 /home/o6su1nvmgrk4/public_html/wp-config.php(25): define()
+#1 /home/o6su1nvmgrk4/public_html/wp-load.php(50): require_once('/home/o6su1nvmg...')
+#2 /home/o6su1nvmgrk4/public_html/wp-blog-header.php(13): require_once('/home/o6su1nvmg...')
+#3 /home/o6su1nvmgrk4/public_html/index.php(17): require('/home/o6su1nvmg...')
+#4 {main}
+  thrown in /home/o6su1nvmgrk4/public_html/wp-config.php on line 25
+[06-Jun-2025 00:58:39 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/o6su1nvmgrk4/public_html/wp-config.php:25
+Stack trace:
+#0 /home/o6su1nvmgrk4/public_html/wp-config.php(25): define()
+#1 /home/o6su1nvmgrk4/public_html/wp-load.php(50): require_once('/home/o6su1nvmg...')
+#2 /home/o6su1nvmgrk4/public_html/wp-blog-header.php(13): require_once('/home/o6su1nvmg...')
+#3 /home/o6su1nvmgrk4/public_html/index.php(17): require('/home/o6su1nvmg...')
+#4 {main}
+  thrown in /home/o6su1nvmgrk4/public_html/wp-config.php on line 25
+[06-Jun-2025 00:58:41 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/o6su1nvmgrk4/public_html/wp-config.php:25
+Stack trace:
+#0 /home/o6su1nvmgrk4/public_html/wp-config.php(25): define()
+#1 /home/o6su1nvmgrk4/public_html/wp-load.php(50): require_once('/home/o6su1nvmg...')
+#2 /home/o6su1nvmgrk4/public_html/wp-blog-header.php(13): require_once('/home/o6su1nvmg...')
+#3 /home/o6su1nvmgrk4/public_html/index.php(17): require('/home/o6su1nvmg...')
+#4 {main}
+  thrown in /home/o6su1nvmgrk4/public_html/wp-config.php on line 25
+[06-Jun-2025 00:58:41 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/o6su1nvmgrk4/public_html/wp-config.php:25
+Stack trace:
+#0 /home/o6su1nvmgrk4/public_html/wp-config.php(25): define()
+#1 /home/o6su1nvmgrk4/public_html/wp-load.php(50): require_once('/home/o6su1nvmg...')
+#2 /home/o6su1nvmgrk4/public_html/wp-blog-header.php(13): require_once('/home/o6su1nvmg...')
+#3 /home/o6su1nvmgrk4/public_html/index.php(17): require('/home/o6su1nvmg...')
+#4 {main}
+  thrown in /home/o6su1nvmgrk4/public_html/wp-config.php on line 25
+[06-Jun-2025 00:58:42 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/o6su1nvmgrk4/public_html/wp-config.php:25
+Stack trace:
+#0 /home/o6su1nvmgrk4/public_html/wp-config.php(25): define()
+#1 /home/o6su1nvmgrk4/public_html/wp-load.php(50): require_once('/home/o6su1nvmg...')
+#2 /home/o6su1nvmgrk4/public_html/wp-blog-header.php(13): require_once('/home/o6su1nvmg...')
+#3 /home/o6su1nvmgrk4/public_html/index.php(17): require('/home/o6su1nvmg...')
+#4 {main}
+  thrown in /home/o6su1nvmgrk4/public_html/wp-config.php on line 25
+[06-Jun-2025 00:58:42 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/o6su1nvmgrk4/public_html/wp-config.php:25
+Stack trace:
+#0 /home/o6su1nvmgrk4/public_html/wp-config.php(25): define()
+#1 /home/o6su1nvmgrk4/public_html/wp-load.php(50): require_once('/home/o6su1nvmg...')
+#2 /home/o6su1nvmgrk4/public_html/wp-blog-header.php(13): require_once('/home/o6su1nvmg...')
+#3 /home/o6su1nvmgrk4/public_html/index.php(17): require('/home/o6su1nvmg...')
+#4 {main}
+  thrown in /home/o6su1nvmgrk4/public_html/wp-config.php on line 25
+[06-Jun-2025 00:58:42 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/o6su1nvmgrk4/public_html/wp-config.php:25
+Stack trace:
+#0 /home/o6su1nvmgrk4/public_html/wp-config.php(25): define()
+#1 /home/o6su1nvmgrk4/public_html/wp-load.php(50): require_once('/home/o6su1nvmg...')
+#2 /home/o6su1nvmgrk4/public_html/wp-blog-header.php(13): require_once('/home/o6su1nvmg...')
+#3 /home/o6su1nvmgrk4/public_html/index.php(17): require('/home/o6su1nvmg...')
+#4 {main}
+  thrown in /home/o6su1nvmgrk4/public_html/wp-config.php on line 25
+[06-Jun-2025 00:58:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/o6su1nvmgrk4/public_html/wp-config.php:25
+Stack trace:
+#0 /home/o6su1nvmgrk4/public_html/wp-config.php(25): define()
+#1 /home/o6su1nvmgrk4/public_html/wp-load.php(50): require_once('/home/o6su1nvmg...')
+#2 /home/o6su1nvmgrk4/public_html/wp-blog-header.php(13): require_once('/home/o6su1nvmg...')
+#3 /home/o6su1nvmgrk4/public_html/index.php(17): require('/home/o6su1nvmg...')
+#4 {main}
+  thrown in /home/o6su1nvmgrk4/public_html/wp-config.php on line 25
+[06-Jun-2025 00:58:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/o6su1nvmgrk4/public_html/wp-config.php:25
+Stack trace:
+#0 /home/o6su1nvmgrk4/public_html/wp-config.php(25): define()
+#1 /home/o6su1nvmgrk4/public_html/wp-load.php(50): require_once('/home/o6su1nvmg...')
+#2 /home/o6su1nvmgrk4/public_html/wp-blog-header.php(13): require_once('/home/o6su1nvmg...')
+#3 /home/o6su1nvmgrk4/public_html/index.php(17): require('/home/o6su1nvmg...')
+#4 {main}
+  thrown in /home/o6su1nvmgrk4/public_html/wp-config.php on line 25
+[06-Jun-2025 00:59:34 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/o6su1nvmgrk4/public_html/wp-config.php:25
+Stack trace:
+#0 /home/o6su1nvmgrk4/public_html/wp-config.php(25): define()
+#1 /home/o6su1nvmgrk4/public_html/wp-load.php(50): require_once('/home/o6su1nvmg...')
+#2 /home/o6su1nvmgrk4/public_html/wp-blog-header.php(13): require_once('/home/o6su1nvmg...')
+#3 /home/o6su1nvmgrk4/public_html/index.php(17): require('/home/o6su1nvmg...')
+#4 {main}
+  thrown in /home/o6su1nvmgrk4/public_html/wp-config.php on line 25
+[06-Jun-2025 00:59:34 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/o6su1nvmgrk4/public_html/wp-config.php:25
+Stack trace:
+#0 /home/o6su1nvmgrk4/public_html/wp-config.php(25): define()
+#1 /home/o6su1nvmgrk4/public_html/wp-load.php(50): require_once('/home/o6su1nvmg...')
+#2 /home/o6su1nvmgrk4/public_html/wp-blog-header.php(13): require_once('/home/o6su1nvmg...')
+#3 /home/o6su1nvmgrk4/public_html/index.php(17): require('/home/o6su1nvmg...')
+#4 {main}
+  thrown in /home/o6su1nvmgrk4/public_html/wp-config.php on line 25
+[06-Jun-2025 00:59:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/o6su1nvmgrk4/public_html/wp-config.php:25
+Stack trace:
+#0 /home/o6su1nvmgrk4/public_html/wp-config.php(25): define()
+#1 /home/o6su1nvmgrk4/public_html/wp-load.php(50): require_once('/home/o6su1nvmg...')
+#2 /home/o6su1nvmgrk4/public_html/wp-blog-header.php(13): require_once('/home/o6su1nvmg...')
+#3 /home/o6su1nvmgrk4/public_html/index.php(17): require('/home/o6su1nvmg...')
+#4 {main}
+  thrown in /home/o6su1nvmgrk4/public_html/wp-config.php on line 25
+[06-Jun-2025 00:59:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/o6su1nvmgrk4/public_html/wp-config.php:25
+Stack trace:
+#0 /home/o6su1nvmgrk4/public_html/wp-config.php(25): define()
+#1 /home/o6su1nvmgrk4/public_html/wp-load.php(50): require_once('/home/o6su1nvmg...')
+#2 /home/o6su1nvmgrk4/public_html/wp-blog-header.php(13): require_once('/home/o6su1nvmg...')
+#3 /home/o6su1nvmgrk4/public_html/index.php(17): require('/home/o6su1nvmg...')
+#4 {main}
+  thrown in /home/o6su1nvmgrk4/public_html/wp-config.php on line 25
+[06-Jun-2025 00:59:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/o6su1nvmgrk4/public_html/wp-config.php:25
+Stack trace:
+#0 /home/o6su1nvmgrk4/public_html/wp-config.php(25): define()
+#1 /home/o6su1nvmgrk4/public_html/wp-load.php(50): require_once('/home/o6su1nvmg...')
+#2 /home/o6su1nvmgrk4/public_html/wp-blog-header.php(13): require_once('/home/o6su1nvmg...')
+#3 /home/o6su1nvmgrk4/public_html/index.php(17): require('/home/o6su1nvmg...')
+#4 {main}
+  thrown in /home/o6su1nvmgrk4/public_html/wp-config.php on line 25
+[06-Jun-2025 00:59:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/o6su1nvmgrk4/public_html/wp-config.php:25
+Stack trace:
+#0 /home/o6su1nvmgrk4/public_html/wp-config.php(25): define()
+#1 /home/o6su1nvmgrk4/public_html/wp-load.php(50): require_once('/home/o6su1nvmg...')
+#2 /home/o6su1nvmgrk4/public_html/wp-blog-header.php(13): require_once('/home/o6su1nvmg...')
+#3 /home/o6su1nvmgrk4/public_html/index.php(17): require('/home/o6su1nvmg...')
+#4 {main}
+  thrown in /home/o6su1nvmgrk4/public_html/wp-config.php on line 25
+[06-Jun-2025 01:01:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/o6su1nvmgrk4/public_html/wp-config.php:25
+Stack trace:
+#0 /home/o6su1nvmgrk4/public_html/wp-config.php(25): define()
+#1 /home/o6su1nvmgrk4/public_html/wp-load.php(50): require_once('/home/o6su1nvmg...')
+#2 /home/o6su1nvmgrk4/public_html/wp-blog-header.php(13): require_once('/home/o6su1nvmg...')
+#3 /home/o6su1nvmgrk4/public_html/index.php(17): require('/home/o6su1nvmg...')
+#4 {main}
+  thrown in /home/o6su1nvmgrk4/public_html/wp-config.php on line 25
+[06-Jun-2025 01:01:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 1 given in /home/o6su1nvmgrk4/public_html/wp-config.php:25
+Stack trace:
+#0 /home/o6su1nvmgrk4/public_html/wp-config.php(25): define()
+#1 /home/o6su1nvmgrk4/public_html/wp-load.php(50): require_once('/home/o6su1nvmg...')
+#2 /home/o6su1nvmgrk4/public_html/wp-blog-header.php(13): require_once('/home/o6su1nvmg...')
+#3 /home/o6su1nvmgrk4/public_html/index.php(17): require('/home/o6su1nvmg...')
+#4 {main}
+  thrown in /home/o6su1nvmgrk4/public_html/wp-config.php on line 25
